@@ -36,4 +36,4 @@
   <img src="https://github.com/Aryansh1520/aryansh1520/blob/main/pc-banging.gif" alt="animated" width="200" height="160" />
 </p>
 
-<h3 align="center">TOODLES!</h3>
+<h3 align="center">JAI SHREE RAM</h3>
