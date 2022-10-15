@@ -8,7 +8,7 @@
 
 
 
-🔭 I’m currently working on [ChatBot](https://github.com/Aryansh1520/chattbot.git)<br><br> 🌱 I’m currently learning Data Science , .NET CORE , SQL , Big Data<br><br> 💬 Ask me about **Python , SQL , .NET Core , C++ , C# ,JavaScript , PL/SQL**<br><br> 📫 How to reach me aryan152015@gmail.com<br><br> 📄 Know about my experiences [¯\_(ツ)_/¯](¯\_(ツ)_/¯)<br><br> ⚡ Fun fact A snail(Aryan) can sleep for three years
+🔭 I’m currently working on [AI Driven ChatBot](https://github.com/Aryansh1520/chattbot.git)<br><br> 🌱 I’m currently learning Data Science , .NET CORE , SQL , Big Data<br><br> 💬 Ask me about **Python , SQL , .NET Core , C++ , C# ,JavaScript , PL/SQL**<br><br> 📫 How to reach me aryan152015@gmail.com<br><br> 📄 Know about my experiences [¯\_(ツ)_/¯](¯\_(ツ)_/¯)<br><br> ⚡ Fun fact A snail(Aryan) can sleep for three years
 
 
 ## 🌐 Socials:
