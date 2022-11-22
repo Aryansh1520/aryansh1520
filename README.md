@@ -30,10 +30,6 @@
 
 ![Snake animation](https://github.com/Aryansh1520/aryansh1520/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="center">Artist Rendition of an Aryan working :</h3>
 
-<p align="center">
-  <img src="https://github.com/Aryansh1520/aryansh1520/blob/main/pc-banging.gif" alt="animated" width="200" height="160" />
-</p>
 
 <h3 align="center">JAI SHREE RAM</h3>
