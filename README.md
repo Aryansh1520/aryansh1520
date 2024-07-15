@@ -8,7 +8,7 @@
 
 
 
-🔭 I’m currently working on [AI Driven ChatBot](https://github.com/Aryansh1520/chattbot.git)<br><br> 🌱 I’m currently learning Data Science , .NET CORE , SQL , Big Data<br><br> 💬 Ask me about **Python , SQL , DOT NET Core , C++ , C# ,JavaScript , PL/SQL**<br><br> 📫 How to reach me aryan152015@gmail.com<br><br> 📄 Know about my experiences [¯\_(ツ)_/¯](¯\_(ツ)_/¯)<br><br> ⚡ Fun fact A snail(Aryan) can sleep for three years
+🔭 I’m currently working on [AI Driven ChatBot](https://github.com/Aryansh1520/chattbot.git)<br><br> 🌱 I’m currently learning Data Science , .NET CORE , SQL , Big Data<br><br> 💬 Ask me about **Python , SQL , DOT NET Core , C++ , C# ,JavaScript , PL/SQL**<br><br> 📫 How to reach me aryan152015@gmail.com<br><br> 📄 Know about my experiences [¯\_(ツ)_/¯](¯\_(ツ)_/¯)<br>
 
 
 ## 🌐 Socials:
@@ -26,10 +26,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=Aryansh1520&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aryansh1520&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansh1520&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<h3 align="center">Mandatory Snake Eating my Contributions GIF:</h3>
 
-![Snake animation](https://github.com/Aryansh1520/aryansh1520/blob/output/github-contribution-grid-snake.svg)
-
-
-
-<h3 align="center">JAI SHREE RAM</h3>
